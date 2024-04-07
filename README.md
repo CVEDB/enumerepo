@@ -10,7 +10,7 @@ Binaries are available in the [latest release](https://github.com/cvedb/enumerep
 
 ## Docker
 ```
-docker run quay.io/cvedb/enumerepo
+docker run ghcr.io/cvedb/enumerepo
 ```
 
 ## From source
